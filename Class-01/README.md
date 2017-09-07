@@ -27,6 +27,7 @@ The student will successfully request user input and output a response to the co
 - [Iteration Statements](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/iteration-statements)
 - [Build in data types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/built-in-types-table)
 - [Methods (up to return values)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods)
+- C# in a Nutshell - Chapter 2 C# Language Basics
 
 ## Code Challenge 1
 Write a method that takes one number as an argument. 

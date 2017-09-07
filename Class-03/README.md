@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 
-The Student will be able to successfully Create, Read, and Update a text file using the System.IO library
-Student will create an array and use an array to read lines from an external text file application
-Students will know and understand the purpose of the using statements when opening up a file.
+- The Student will be able to successfully Create, Read, and Update a text file using the System.IO library
+- Student will create an array and use an array to read lines from an external text file application
+- Students will know and understand the purpose of the using statements when opening up a file.
 
 
 ## Lecture Outline
