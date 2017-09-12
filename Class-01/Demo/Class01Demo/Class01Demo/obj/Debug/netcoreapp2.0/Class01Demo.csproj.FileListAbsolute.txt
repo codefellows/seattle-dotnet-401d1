@@ -1,0 +1,11 @@
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\bin\Debug\netcoreapp2.0\Class01Demo.deps.json
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\bin\Debug\netcoreapp2.0\Class01Demo.runtimeconfig.json
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\bin\Debug\netcoreapp2.0\Class01Demo.runtimeconfig.dev.json
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\bin\Debug\netcoreapp2.0\Class01Demo.dll
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\bin\Debug\netcoreapp2.0\Class01Demo.pdb
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\obj\Debug\netcoreapp2.0\Class01Demo.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\obj\Debug\netcoreapp2.0\Class01Demo.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\obj\Debug\netcoreapp2.0\Class01Demo.AssemblyInfoInputs.cache
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\obj\Debug\netcoreapp2.0\Class01Demo.AssemblyInfo.cs
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\obj\Debug\netcoreapp2.0\Class01Demo.dll
+C:\Users\amanda\Documents\Visual Studio 2017\Projects\Class01Demo\Class01Demo\obj\Debug\netcoreapp2.0\Class01Demo.pdb
