@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\amanda\\Source\\Repos\\seattle-dotnet-401d1\\Class-02\\Class02-Demo\\Class02-Demo\\Class02-Demo.csproj",
-      "projectName": "Class02-Demo",
-      "projectPath": "C:\\Users\\amanda\\Source\\Repos\\seattle-dotnet-401d1\\Class-02\\Class02-Demo\\Class02-Demo\\Class02-Demo.csproj",
+      "projectUniqueName": "C:\\Users\\amanda\\Desktop\\CodeFellows\\dotnet401\\Week1\\ClassDemos\\Class_Demo3\\Class_Demo3\\Class_Demo3.csproj",
+      "projectName": "Class_Demo3",
+      "projectPath": "C:\\Users\\amanda\\Desktop\\CodeFellows\\dotnet401\\Week1\\ClassDemos\\Class_Demo3\\Class_Demo3\\Class_Demo3.csproj",
       "packagesPath": "C:\\Users\\amanda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amanda\\Source\\Repos\\seattle-dotnet-401d1\\Class-02\\Class02-Demo\\Class02-Demo\\obj\\",
+      "outputPath": "C:\\Users\\amanda\\Desktop\\CodeFellows\\dotnet401\\Week1\\ClassDemos\\Class_Demo3\\Class_Demo3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\bin\Debug\netcoreapp2.0\Class_Demo3.deps.json
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\bin\Debug\netcoreapp2.0\Class_Demo3.runtimeconfig.json
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\bin\Debug\netcoreapp2.0\Class_Demo3.runtimeconfig.dev.json
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\bin\Debug\netcoreapp2.0\Class_Demo3.dll
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\bin\Debug\netcoreapp2.0\Class_Demo3.pdb
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\obj\Debug\netcoreapp2.0\Class_Demo3.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\obj\Debug\netcoreapp2.0\Class_Demo3.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\obj\Debug\netcoreapp2.0\Class_Demo3.AssemblyInfoInputs.cache
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\obj\Debug\netcoreapp2.0\Class_Demo3.AssemblyInfo.cs
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\obj\Debug\netcoreapp2.0\Class_Demo3.dll
+C:\Users\amanda\Desktop\CodeFellows\dotnet401\Week1\ClassDemos\Class_Demo3\Class_Demo3\obj\Debug\netcoreapp2.0\Class_Demo3.pdb
