@@ -210,5 +210,6 @@ Bunny b2 = new Bunny ("Bo")     { LikesCarrots=true, LikesHumans=false };
 
 ## Code Challenge 4
 1. Complete [this tutorial](https://www.codecademy.com/courses/big-o/0/1) on the Big O notation.
+1. This tutorial is in Javascript - but Big O is universal across all languages. This still applies to C#.
 1. Complete all 15 lessons within this tutorial. 
 1. Submit a screenshot of the coding academy lesson overview with the checkmarks next to each completed lesson.
