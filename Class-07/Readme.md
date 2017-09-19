@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 7 : Collections
+![cf](http://i.imgur.com/7v5ASc8.png) Class 7 : Collections
 =====================================
 
 ## Learning Objectives

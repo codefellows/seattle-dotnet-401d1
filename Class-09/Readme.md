@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 9 : ASP.NET Core
+![cf](http://i.imgur.com/7v5ASc8.png) Class 9 : ASP.NET Core
 =====================================
 
 ## Learning Objectives
