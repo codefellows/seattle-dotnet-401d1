@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 7 : LINQ
+![cf](http://i.imgur.com/7v5ASc8.png) Class 8 : LINQ
 =====================================
 
 ## Learning Objectives
