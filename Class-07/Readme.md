@@ -141,4 +141,13 @@ You use a `yield break` statement to end an iteration
 - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
 - [Enums](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/enum)
 - C# 6.0 in a nutshell - Chapter 7 (Collections)
+
 ## Coding Challenge
+Find the middle of the Linked Lists
+
+- Using your "data-structures" repository created in class  2
+  - add a folder and label it `Linked Lists`
+  - add the code on a branch from this challenge into this repo
+  - Describe your approach in the strings folder readme document
+  - Spend no more than 90 minutes on this challenge
+  - Submit a link to your repo PR in canvas
