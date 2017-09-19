@@ -62,7 +62,7 @@ There are two ways to crate and manage a group of related objects
      ```csharp
         private static void IterateThroughList()  
         {  
-            var snowWhiteDwarves = new List<Dwarves>  
+            var snowWhiteDwarves = new List<Disney>  
                 {  
                     new Disney() { Name="Doc", age=400},  
                     new Disney() { Name="Happy", age=25},  
@@ -89,7 +89,7 @@ There are two ways to crate and manage a group of related objects
   - What is `GetEnumerator()`?
       - You need your class iterate through with a for loop. 
 
-- Foreach does not requires Ienumerable
+- Foreach does not requires IEnumerable
 - only requires a Ienumerator GetEnumerator();
 
 - *Enumerable* - means it can be iterated through
