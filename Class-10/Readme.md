@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lab 10 Intro to Core con't
+![cf](http://i.imgur.com/7v5ASc8.png) Class 10 Intro to Core con't
 =====================================
 
 ## Learning Objectives
