@@ -39,7 +39,7 @@
 
 ## Coding Challenge
 Find the Nth Element from the end of a Linked List
-
+- Output both how far from the end it is, and what the node data is. 
 - Using your "data-structures" repository created in class  2
   - add a folder and label it `Linked Lists`
   - add the code on a branch from this challenge into this repo

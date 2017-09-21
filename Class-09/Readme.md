@@ -16,9 +16,9 @@
 
 
 ## Readings
-[Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
-[Working with static Files](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
-[Error Handling](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
+- [Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware)
+- [Working with static Files](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
+- [Error Handling](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
 
 ## Coding Challenge
 Node Deletion - Singly

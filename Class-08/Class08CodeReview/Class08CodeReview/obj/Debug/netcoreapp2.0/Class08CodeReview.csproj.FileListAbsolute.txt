@@ -1,0 +1,11 @@
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\bin\Debug\netcoreapp2.0\Class08CodeReview.deps.json
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\bin\Debug\netcoreapp2.0\Class08CodeReview.runtimeconfig.json
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\bin\Debug\netcoreapp2.0\Class08CodeReview.runtimeconfig.dev.json
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\bin\Debug\netcoreapp2.0\Class08CodeReview.dll
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\bin\Debug\netcoreapp2.0\Class08CodeReview.pdb
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\obj\Debug\netcoreapp2.0\Class08CodeReview.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\obj\Debug\netcoreapp2.0\Class08CodeReview.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\obj\Debug\netcoreapp2.0\Class08CodeReview.AssemblyInfoInputs.cache
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\obj\Debug\netcoreapp2.0\Class08CodeReview.AssemblyInfo.cs
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\obj\Debug\netcoreapp2.0\Class08CodeReview.dll
+C:\Users\amanda\Desktop\CodeFellows\Class08CodeReview\Class08CodeReview\obj\Debug\netcoreapp2.0\Class08CodeReview.pdb
