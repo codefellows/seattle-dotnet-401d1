@@ -6,7 +6,7 @@
 2. The student will understand middleware and environment handling in Core.
 
 ## Lecture Outline
--Guest speaker - Maria Nagaga! 
+-Guest speaker - Maria Naggaga! 
     - Short lecture on Core
 
 ### Deploymet to Azure
