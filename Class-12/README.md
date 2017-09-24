@@ -20,6 +20,6 @@
 - [Rendering HTML with views in ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/overview)
 - [Razor Syntax](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor)
 - [Layout](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/layout)
-- [Tag Helpers (and sub pages)](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
+- [Tag Helpers in Forms](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/working-with-forms)
 - [Partial Views](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial)
 
