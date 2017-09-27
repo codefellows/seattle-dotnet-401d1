@@ -1,0 +1,11 @@
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\bin\Debug\netcoreapp2.0\Class12Demo.deps.json
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\bin\Debug\netcoreapp2.0\Class12Demo.runtimeconfig.json
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\bin\Debug\netcoreapp2.0\Class12Demo.runtimeconfig.dev.json
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\bin\Debug\netcoreapp2.0\Class12Demo.dll
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\obj\Debug\netcoreapp2.0\Class12Demo.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\obj\Debug\netcoreapp2.0\Class12Demo.csproj.CoreCompileInputs.cache
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\obj\Debug\netcoreapp2.0\Class12Demo.AssemblyInfoInputs.cache
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\obj\Debug\netcoreapp2.0\Class12Demo.AssemblyInfo.cs
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\bin\Debug\netcoreapp2.0\Class12Demo.pdb
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\obj\Debug\netcoreapp2.0\Class12Demo.dll
+c:\users\amanda\documents\visual studio 2017\Projects\Class12Demo\Class12Demo\obj\Debug\netcoreapp2.0\Class12Demo.pdb
