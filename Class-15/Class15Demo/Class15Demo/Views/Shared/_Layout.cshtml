@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+    <style>
+        .mainDiv {
+            background-color: red;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: red; font-size: 15pt">This is my body of my layout</h1>
+    <div class="mainDiv">
+        @RenderBody()
+    </div>
+</body>
+
+</html>
