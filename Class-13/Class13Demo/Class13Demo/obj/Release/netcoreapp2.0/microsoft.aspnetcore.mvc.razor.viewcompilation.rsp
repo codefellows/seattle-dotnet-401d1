@@ -1,0 +1,13 @@
+D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Class13Demo
+--content-root=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Error\Index.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Home\Index.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Movies\Create.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Movies\Delete.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Movies\Details.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Movies\Edit.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Movies\Index.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\CodeFellows\dotnet401\Week3\Examples\Class13Demo\Class13Demo\Views\_ViewImports.cshtml

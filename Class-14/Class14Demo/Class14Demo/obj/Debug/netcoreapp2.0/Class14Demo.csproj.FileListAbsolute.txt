@@ -1,0 +1,11 @@
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\bin\Debug\netcoreapp2.0\Class14Demo.deps.json
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\bin\Debug\netcoreapp2.0\Class14Demo.runtimeconfig.json
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\bin\Debug\netcoreapp2.0\Class14Demo.runtimeconfig.dev.json
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\bin\Debug\netcoreapp2.0\Class14Demo.dll
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\obj\Debug\netcoreapp2.0\Class14Demo.csprojResolveAssemblyReference.cache
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\obj\Debug\netcoreapp2.0\Class14Demo.csproj.CoreCompileInputs.cache
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\obj\Debug\netcoreapp2.0\Class14Demo.AssemblyInfoInputs.cache
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\obj\Debug\netcoreapp2.0\Class14Demo.AssemblyInfo.cs
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\bin\Debug\netcoreapp2.0\Class14Demo.pdb
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\obj\Debug\netcoreapp2.0\Class14Demo.dll
+D:\CodeFellows\dotnet401\Week3\Class14Demo\Class14Demo\obj\Debug\netcoreapp2.0\Class14Demo.pdb
