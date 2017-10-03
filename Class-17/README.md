@@ -9,7 +9,7 @@
 
 ### Coding Challenge
 
-Build out a Binary Tree and traverse through it. 
+Build out a Binary Treew with a minimum depth of 2, and traverse through it using preOrder Traversal
 
 - Using your "data-structures" repository
   1. add a folder and label it Trees
