@@ -3,5 +3,3 @@
 
 
 ## Readings
-- [Repository Pattern](https://social.technet.microsoft.com/wiki/contents/articles/36287.repository-pattern-in-asp-net-core.aspx)
-
