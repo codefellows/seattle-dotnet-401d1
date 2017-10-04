@@ -2,3 +2,8 @@
 =====================================
 
 ### Readings
+
+
+### Code Challenge:
+Create a Binary tree of at least a depth of 2, and implement InOrder and PostOrder Traversal.
+
