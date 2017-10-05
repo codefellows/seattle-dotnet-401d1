@@ -5,7 +5,7 @@
 ### Readings
 - [Unit Testing](https://github.com/dotnet/docs/blob/master/docs/core/testing/unit-testing-with-dotnet-test.md)
 
-- [XUnit](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test)
+- [XUnit](https://xunit.github.io/docs/getting-started-dotnet-core)
 
 ### Code Challenge
 
