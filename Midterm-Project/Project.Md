@@ -9,12 +9,12 @@
 - How does your application interact with each of the components?
 
 ## Implementation: (25pts)
-- Clearly commented code (5pts)
+- Clearly commented code
 	- Clearly document your code
 	- What does this code do?
 	- Why do you have it?
 	- Where is the request being sent?
-###	Language: (5 pts)
+###	Language:
 - C#
 	- Exception Handling
 	- Generic Collections
@@ -24,7 +24,7 @@
 	- Classes
 	- Enums
 
-### Architecture Pattern: (10 pts)
+### Architecture Pattern:
 - MVC
 	- Models
 		- Model Binding
@@ -49,18 +49,19 @@
 		- Documented Migrations
 		- Code First or Database First Migrations (choose 1)
 
-### Database (5pts)
+### Database
 - SQL Server
 - SQL Server Database
 - At least 2 tables
 - Associations clearly defined
 
-### Testing: (5pts)
+### Testing:
 - Unit Tests
 	- XUnit
 	- At least 5 passing unit tests.
 
-## Deployment Platform: (10pts)
+## Deployment Platform:
 - Azure
 - App Services
 - SQL Server
+- Continuous Deployment
