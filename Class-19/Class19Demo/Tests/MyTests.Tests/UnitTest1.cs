@@ -34,6 +34,12 @@ namespace MyTests.Tests
                 as IEnumerable<Product>;
 
             // Assert
+
+            
+            //p1 is equal to the first product in the _repo.products.
+            // p2 is equal to the first produt in the model (the fake repo located below)
+            // this Assert.Equal method is asking if p1 is equal to p2 in both price and name.
+           
             Assert.Equal(controller._repo.Products, model,
                     Comparer.Get<Product>((p1, p2) => p1.Name == p2.Name
                     && p1.Price == p2.Price));
