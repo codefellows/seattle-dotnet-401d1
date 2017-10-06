@@ -7,6 +7,11 @@
 
 - [XUnit](https://xunit.github.io/docs/getting-started-dotnet-core)
 
+- **NEW** - [Testing a controller](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing)
+- **NEW** -  [Delegates](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)  
+
 ### Code Challenge
 
 - Implement Breadth first traversal on your Binary Tree
+
+

@@ -1,0 +1,14 @@
+﻿@model IEnumerable<Class19Demo.Models.Product>
+
+@{
+    Layout = null;
+}
+
+@foreach(var p in Model)
+{
+    <div>
+        <h1> @p.Name</h1>
+        <p>@p.Price.ToString("c")</p>
+        <strong>@p.SKU</strong>
+    </div>
+}
