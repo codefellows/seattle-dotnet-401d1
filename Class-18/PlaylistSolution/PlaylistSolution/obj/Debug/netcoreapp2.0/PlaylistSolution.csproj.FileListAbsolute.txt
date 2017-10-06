@@ -1,0 +1,11 @@
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\bin\Debug\netcoreapp2.0\PlaylistSolution.deps.json
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\bin\Debug\netcoreapp2.0\PlaylistSolution.runtimeconfig.json
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\bin\Debug\netcoreapp2.0\PlaylistSolution.runtimeconfig.dev.json
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\bin\Debug\netcoreapp2.0\PlaylistSolution.dll
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\obj\Debug\netcoreapp2.0\PlaylistSolution.csprojResolveAssemblyReference.cache
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\obj\Debug\netcoreapp2.0\PlaylistSolution.csproj.CoreCompileInputs.cache
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\obj\Debug\netcoreapp2.0\PlaylistSolution.AssemblyInfoInputs.cache
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\obj\Debug\netcoreapp2.0\PlaylistSolution.AssemblyInfo.cs
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\bin\Debug\netcoreapp2.0\PlaylistSolution.pdb
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\obj\Debug\netcoreapp2.0\PlaylistSolution.dll
+D:\CodeFellows\dotnet401\Week4\PlaylistSolution\PlaylistSolution\obj\Debug\netcoreapp2.0\PlaylistSolution.pdb
