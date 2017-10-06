@@ -60,7 +60,7 @@
 	- XUnit
 	- At least 5 passing unit tests.
 
-## Deployment Platform:
+## Deployment Platform (15pts):
 - Azure
 - App Services
 - SQL Server
