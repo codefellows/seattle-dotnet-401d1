@@ -20,11 +20,11 @@
 
 ### Tuesday: <br /> 
 **10:30am** : Morning Standup <br />
-**4:00pm** : End of Day Standup <br />
+**5:00pm** : End of Day Standup <br />
 
 
 ### Wednesday: <br /> 
-**4:30pm** : End of Day Standup
+**5:00pm** : End of Day Standup
 
 <u> Milestone </u> <br />
 - MVP Deployed
