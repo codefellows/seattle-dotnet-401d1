@@ -14,7 +14,7 @@
 
 
 ## Coding Challenge
-Insert a node into a BST
+Find the Min and Max of your BST
 
 - Using your "data-structures" repository -
   - add a folder and label it `Binary Search Trees`
