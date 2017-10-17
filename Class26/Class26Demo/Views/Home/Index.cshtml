@@ -1,0 +1,16 @@
+﻿@model List<Class26Demo.Models.CMS>
+
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    @if (item.IsPublished)
+    {
+        <h1> @item.Title</h1>
+        <p>@item.Content</p>
+
+    }
+
+}
