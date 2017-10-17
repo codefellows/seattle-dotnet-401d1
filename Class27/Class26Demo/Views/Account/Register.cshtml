@@ -1,0 +1,22 @@
+﻿@model Class26Demo.Models.RegisterViewModel
+
+<form asp-route-returnUrl="@ViewData["ReturnUrl"]" method="post">
+
+    <div asp-validation-summary="All"></div>
+    <h4>Create Your Account </h4>
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <span asp-validation-for="Email"></span> <br /> <br />
+
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+    <span asp-validation-for="Password"></span><br /> <br />
+    
+    <label asp-for="ConfirmPassword"></label>
+    <input asp-for="ConfirmPassword" />
+    <span asp-validation-for="ConfirmPassword"></span><br /> <br />
+
+    <button type="submit">Register</button>
+
+</form>
