@@ -22,9 +22,10 @@ Work in paris to delete a node in BST
   - add a folder and label it `Binary Search Trees`
   - add the code on a branch from this challenge into this repo
   - Your Readme document should include your notes about the challenge.
-	- What did you learn?
-	- Where did you look?
-	- What notes did you use to help you successfully complete the challenge?
+	- What did you learn? (Explain how you felt before starting the challenge, what did you learn while researching, and how well do you understand the data structure after your self research)
+	- Where did you look? (**Be specific, what sites? resources? Books?)
+	- What notes did you use to help you successfully complete the challenge? (Did you write anything down, bookmark anything that looked userful? What did you use as a guideline or direction during the challenge?)
+	-
   - Submit a link to your repo PR in canvas
   
   
