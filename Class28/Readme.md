@@ -34,4 +34,5 @@ Work in paris to delete a node in BST
   
   ### Rubric
   - 4 points: Readme includes notes of the challenge
-  - 6 points: Data structure completed
+  - 3 points: Whiteboard 
+  - 3 points: Code
