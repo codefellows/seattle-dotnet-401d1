@@ -27,7 +27,7 @@ Work in paris to delete a node in BST
 	- Where did you look? 
 		- Be specific, what sites? resources? Books?
 	- What notes did you use to help you successfully complete the challenge? 
-		- Did you write anything down, bookmark anything that looked userful? 
+		- Did you write anything down, bookmark anything that looked useful? 
 		- What did you use as a guideline or direction during the challenge?)
   - Submit a link to your repo PR in canvas
   
