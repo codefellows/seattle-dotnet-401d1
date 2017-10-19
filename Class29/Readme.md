@@ -1,7 +1,10 @@
 ![cf](http://i.imgur.com/7v5ASc8.png) Lecture 29 : Custom Policies
 =====================================
 
-
+## Readings
+- [Policies](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/policies)
+- [View Based Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/views?tabs=aspnetcore2x)
+- [Views using D.I](http://www.davidhayden.me/blog/asp-net-mvc-6-view-injection-using-inject)
 
 ## Coding Challenge
 Work in your assigned pairs:

@@ -1,25 +1,21 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lecture 28 : Identity Day 3 - Roles / Intro to Policies
+![cf](http://i.imgur.com/7v5ASc8.png) Lecture 33 : OWASP
 =====================================
-## Demo
-1. Add onto our previously built 
-2. Add roles to users
-3. Add Claims
-4. Add Policies
 
 ## Readings
-- [Role Based](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/roles)
-- [Claims](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/claims)
-- [Policy Based Authorization](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/policies)
-- **Optional** [View Based Authorizatioh](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/views?tabs=aspnetcore2x)
-- **Optional** [Dependency Injection with Views](http://www.davidhayden.me/blog/asp-net-mvc-6-view-injection-using-inject)
 
+- [OWASP Cheat Sheet](https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet)
+- [SQL Injection](https://dotnetcoretutorials.com/2017/10/11/owasp-top-10-asp-net-core-sql-injection/)
+- [Broken Authentication](https://dotnetcoretutorials.com/2017/10/16/owasp-top-10-asp-net-core-broken-authentication-session-management/)
+- **Optional** [OWASP - All three header articles](https://dotnetcore.gaprogman.com/tag/owasp/)
 
 ## Coding Challenge
-Work in paris to delete a node in BST
+Work in your assigned pairs:
+- Implement Radix sort
+- [Radix Sort Wiki](https://www.wikiwand.com/en/Radix_sort)
 
 ### Setup
 - Using your "data-structures" repository -
-  - add a folder and label it `Binary Search Trees`
+  - add a folder and label it `Sorting Algorithms`
   - add the code on a branch from this challenge into this repo
   - Your Readme document should include your notes about the challenge.
 	- What did you learn? 
