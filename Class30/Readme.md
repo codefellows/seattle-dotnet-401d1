@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lecture 27 : OAUTH / Deployment
+![cf](http://i.imgur.com/7v5ASc8.png) Lecture 30 : OAUTH / Deployment
 =====================================
 
 ## Demo
