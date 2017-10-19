@@ -1,13 +1,18 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lecture 27 : HTTP/SSL
+![cf](http://i.imgur.com/7v5ASc8.png) Lecture 27 : OAUTH / Deployment
 =====================================
 
 ## Demo
-1. Enable SSL/HTTPS on our site
-2. Review Kestral
+1. Add OAuth to our existing applicaiton
 
 ## Readings
-[Enforcing SSL](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl)
-[Kestral](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?tabs=aspnetcore2x)
+- [Enabling Authentication](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
+- [Facebook](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/facebook-logins?tabs=aspnetcore2x)
+- [Twitter](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/twitter-logins?tabs=aspnetcore2x)
+- [Google](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/google-logins?tabs=aspnetcore2x)
+- [Microsoft](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/microsoft-logins?tabs=aspnetcore2x)
+- [Others](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/other-logins)
+
+
 
 ## Coding Challenge
 Animal Game:
