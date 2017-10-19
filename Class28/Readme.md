@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lecture 27 : Roles & Claims & Policies
+![cf](http://i.imgur.com/7v5ASc8.png) Lecture 28 : Identity Day 3 - Roles / Intro to Policies
 =====================================
 ## Demo
 1. Add onto our previously built 
