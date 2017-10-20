@@ -1,0 +1,12 @@
+﻿@model List<class28Demo.Models.CMS>
+<h1> This is our Home</h1>
+
+@{ 
+    Layout = "_Layout";
+}
+
+@foreach(var c in Model)
+{
+    <h2> @c.Title</h2>
+    <p>@c.Content</p>
+}
