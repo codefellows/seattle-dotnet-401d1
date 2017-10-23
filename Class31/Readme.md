@@ -13,25 +13,21 @@
 - [Others](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/other-logins)
 
 
-
 ## Coding Challenge
-Animal Game:
+Work in your assigned pairs:
+- Implement insertion sort
+- [Insertion Sort Wiki](https://www.wikiwand.com/en/Insertion_sort)
 
-Create a game where a user thinks up an animal, and the program's simple A.I tries to guess
-what it is. The program is a lerning system, so over time, it gets better at guessing the user's animal.
-
-the program stores information about animals in a binary tree. Each internal node holds either a yes or a no that guides 
-the user down left or the right branch. The leaf nodes represent an animal.
-
-If the system gets the animal wrong, then the user puts in the animal they were thinking of, and a potential question that could have 
-made the computer successful in guessing, and that animal and question gets added to the node list.
-
+### Setup
 - Using your "data-structures" repository -
-  - add a folder and label it `Binary Search Trees`
+  - add a folder and label it `Sorting Algorithms`
   - add the code on a branch from this challenge into this repo
   - Your Readme document should include your notes about the challenge.
-	- What did you learn?
-	- Where did you look?
-	- What notes did you use to help you successfully complete the challenge?
-  - Spend no more than 90 minutes on this challenge
+	- What did you learn? 
+		- Explain how you felt before starting the challenge, what did you learn while researching, and how well do you understand the data structure after your self research
+	- Where did you look? 
+		- Be specific, what sites? resources? Books?
+	- What notes did you use to help you successfully complete the challenge? 
+		- Did you write anything down, bookmark anything that looked useful? 
+		- What did you use as a guideline or direction during the challenge?)
   - Submit a link to your repo PR in canvas
