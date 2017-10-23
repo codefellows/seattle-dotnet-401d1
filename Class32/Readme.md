@@ -1,15 +1,21 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lecture 32 : Concurrency
+![cf](http://i.imgur.com/7v5ASc8.png) Lecture 32: HTTPS/SSL
 =====================================
 
+
+## Demo
+1. Enable SSL/HTTPS on our site
+2. Review Kestral
+
 ## Readings
-- [Concurrency in DotNet](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core)
-- [Handling Concurrency Conflicts](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/concurrency)
-- [Concurrency vs MultiThreading vs Asyncronous](https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/)
+- [Enforcing SSL](https://docs.microsoft.com/en-us/aspnet/core/security/enforcing-ssl)
+- [Diffie-Helman Key Exchange](https://www.wikiwand.com/en/Diffie%E2%80%93Hellman_key_exchange)
+- [Kestral](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/kestrel?tabs=aspnetcore2x)
+
 
 ## Coding Challenge
 Work in your assigned pairs:
-- Implement merge sort
-- [Merge Sort Wiki](https://www.wikiwand.com/en/Merge_sort)
+- Implement insertion sort
+- [Insertion Sort Wiki](https://www.wikiwand.com/en/Insertion_sort)
 
 ### Setup
 - Using your "data-structures" repository -
