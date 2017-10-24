@@ -5,7 +5,7 @@
 - [New Relic](https://blog.newrelic.com/2017/09/13/microsoft-azure-dotnet-netcore/)
 - [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-overview)
 - [App Insights for DevOps](https://docs.microsoft.com/en-us/azure/application-insights/app-insights-detect-triage-diagnose)
-
+- 
 ## Coding Challenge
 Work in your assigned pairs:
 - Implement Quick sort

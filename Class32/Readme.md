@@ -14,8 +14,8 @@
 
 ## Coding Challenge
 Work in your assigned pairs:
-- Implement insertion sort
-- [Insertion Sort Wiki](https://www.wikiwand.com/en/Insertion_sort)
+- Implement Merge sort
+- [Merge Sort Wiki](https://www.wikiwand.com/en/Merge_sort)
 
 ### Setup
 - Using your "data-structures" repository -
