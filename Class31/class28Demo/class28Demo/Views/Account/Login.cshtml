@@ -1,0 +1,62 @@
+﻿@model class28Demo.Models.LoginViewModel
+@using Microsoft.AspNetCore.Identity
+@using class28Demo.Models
+@inject SignInManager<ApplicationUser> SignInManager
+
+@{
+    Layout = "_Layout";
+}
+<form method="post">
+    <div asp-validation-summary="All"></div>
+
+    <label asp-for="Email"></label>
+    <input asp-for="Email" />
+    <br />
+    <label asp-for="Password"></label>
+    <input asp-for="Password" />
+    <br />
+
+    <label asp-for="RememberMe">
+        <input type="checkbox" asp-for="RememberMe" />
+        @Html.DisplayNameFor(m => m.RememberMe)
+    </label>
+    <button type="submit">Login</button>
+
+</form>
+
+
+<div>
+    <h2>Login with Social Media</h2>
+
+    <hr />
+
+    @{
+        var loginProviders = (await SignInManager.GetExternalAuthenticationSchemesAsync()).ToList();
+        if(loginProviders.Count == 0)
+        {
+            <div>
+                <p>
+                    There are not any Login Providers available
+                </p>
+            </div>
+
+        }
+        else
+        {
+            <form asp-action="ExternalLogin" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post">
+                <div>
+                    <p>
+                        @foreach(var providers in loginProviders)
+                        {
+                            <button type="submit" name="provider" value="@providers.Name" title="Log in using your @providers.DisplayName account">@providers.Name</button> 
+
+                        }
+                    </p>
+                </div>
+            </form>
+
+        }
+    }
+
+
+</div>
