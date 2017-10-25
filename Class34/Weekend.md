@@ -12,6 +12,6 @@ Contribute to the discussion about what you learned from the reading. <br />
 - [List of Code Kata's](http://codekata.pragprog.com/codekata/)
 - [Concurrency in DotNet](http://www.dotnetcurry.com/dotnet/1360/concurrent-programming-dotnet-core)
 - [Handling Concurrency Conflicts](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/concurrency)
-**EXTRA** - [Concurrency vs MultiThreading vs Asyncronous](https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/)
-**EXTRA** - [Async/await](https://docs.microsoft.com/en-us/dotnet/csharp/async)
+- **EXTRA** - [Concurrency vs MultiThreading vs Asyncronous](https://codewala.net/2015/07/29/concurrency-vs-multi-threading-vs-asynchronous-programming-explained/)
+- **EXTRA** - [Async/await](https://docs.microsoft.com/en-us/dotnet/csharp/async)
 
