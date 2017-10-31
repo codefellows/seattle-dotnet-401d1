@@ -1,0 +1,11 @@
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\bin\Debug\netcoreapp2.0\Week8Demo.deps.json
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\bin\Debug\netcoreapp2.0\Week8Demo.runtimeconfig.json
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\bin\Debug\netcoreapp2.0\Week8Demo.runtimeconfig.dev.json
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\bin\Debug\netcoreapp2.0\Week8Demo.dll
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\bin\Debug\netcoreapp2.0\Week8Demo.pdb
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\obj\Debug\netcoreapp2.0\Week8Demo.csprojResolveAssemblyReference.cache
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\obj\Debug\netcoreapp2.0\Week8Demo.csproj.CoreCompileInputs.cache
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\obj\Debug\netcoreapp2.0\Week8Demo.AssemblyInfoInputs.cache
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\obj\Debug\netcoreapp2.0\Week8Demo.AssemblyInfo.cs
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\obj\Debug\netcoreapp2.0\Week8Demo.dll
+D:\CodeFellows\dotnet401\Week8\Week8Demo\Week8Demo\obj\Debug\netcoreapp2.0\Week8Demo.pdb
