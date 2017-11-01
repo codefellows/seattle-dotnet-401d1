@@ -1,4 +1,4 @@
-![cf](http://i.imgur.com/7v5ASc8.png) Lecture 36 : Web Api's Double Resource
+![cf](http://i.imgur.com/7v5ASc8.png) Lecture 38 : Web Api's Double Resource
 =====================================
 
 ## Readings
@@ -6,10 +6,12 @@
 - [Formatting](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/formatting)
 
 ## Coding Challenge
-TBA
+[2D/Multidimensional Arrays](https://www.dotnetperls.com/2d): <br />
+- Write an algorithm such that if an element in an MxN matrix is 0, its entire row and column are set to 0.
+
 ### Setup
 - Using your "data-structures" repository -
-  - add a folder and label it `Misc Algorithms`
+  - add a folder and label it `Matrix`
   - add the code on a branch from this challenge into this repo
   - Your Readme document should include your notes about the challenge.
 	- What did you learn? 
