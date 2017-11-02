@@ -11,7 +11,7 @@
 
 ### Setup
 - Using your "data-structures" repository -
-  - add a folder and label it `Misc Algorithms`
+  - add a folder and label it `Matrix Algorithms`
   - add the code on a branch from this challenge into this repo
   - Your Readme document should include your notes about the challenge.
 	- What did you learn? 
