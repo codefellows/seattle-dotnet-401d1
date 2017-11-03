@@ -6,11 +6,12 @@
 - [Razor Pages](https://docs.microsoft.com/en-us/aspnet/core/mvc/razor-pages/?tabs=visual-studio)
 
 ## Coding Challenge
-TBA
+- Given an NxN matrix write a method to rotate the image by 90 degrees.
+	- Can you do this in-place?
 
 ### Setup
 - Using your "data-structures" repository -
-  - add a folder and label it `Misc Algorithms`
+  - add a folder and label it `Matrix Algorithms`
   - add the code on a branch from this challenge into this repo
   - Your Readme document should include your notes about the challenge.
 	- What did you learn? 
