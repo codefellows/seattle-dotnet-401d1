@@ -2,12 +2,10 @@
 =====================================
 
 ## Readings
-- [Design Patterns in ASP.NET](https://www.codeproject.com/Articles/738043/Design-Patterns-in-ASP-NET)
-- [Design Pattern FAQ](https://www.codeproject.com/Articles/28309/Design-pattern-FAQ-Part-Training)
-- Do some self research on the different types of Design Patterns.
-	- Who is the Gang of Four (GoF)? 
-	- How are the Design Patterns organized?
-	- How many different design patterns are there?
+- [Design Patterns](https://www.exceptionnotfound.net/introducing-the-daily-design-pattern/)
+- [Observer Design Pattern](https://docs.microsoft.com/en-us/dotnet/standard/events/observer-design-pattern)
+- [Factory](https://www.exceptionnotfound.net/the-daily-design-pattern-factory-method/)
+- [Builder](https://exceptionnotfound.net/builder-the-daily-design-pattern/)
 
 ## Coding Challenge
 Towers of Hanoi:
