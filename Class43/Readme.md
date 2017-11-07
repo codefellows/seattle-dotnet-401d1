@@ -24,7 +24,7 @@ For example, if N = 3, your function should output bca cba cab acb bac abc
 		- Did you write anything down, bookmark anything that looked useful? 
 		- What did you use as a guideline or direction during the challenge?)
   - Submit a link to your repo PR in canvas
-  
+ 
   
   ### Rubric
   - 4 points: Readme includes notes of the challenge
