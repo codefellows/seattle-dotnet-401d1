@@ -6,8 +6,8 @@
 - Readme Document with your Project Vision
 
 ## Design/Requirements (5pts)
-- Design Diagram for your database
-- Design Diagram on your project layout
+- Design Diagram for your database (electronic format, i.e. Not marker on a whiteboard)
+- Design Diagram on your project layout (electronic format, i.e. Not marker on a whiteboard)
 - How does your application interact with each of the components?
 - Wireframes
 
@@ -73,7 +73,7 @@
 ### Testing:
 - Unit Tests
 	- XUnit
-	- 50 unit tests
+	- 50 unit tests || 90% Code Coverage
 
 ## Deployment Platform (15pts):
 - Azure
