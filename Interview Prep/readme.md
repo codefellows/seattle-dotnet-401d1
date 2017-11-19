@@ -1,11 +1,15 @@
 # Interview Prep
 
 ## Purpose
-The purpose of this document is to have a consolidated location of resources that 
-the students can use to interview prep for potential positions.
-this consists of Debuggin practice, code challenge practice, and online coding challanges
+Use the following resources to help you prepare for interviews as a C# developer
 
-- .Net Fiddle
-- Ed Republic
+- [.Net Fiddle](https://dotnetfiddle.net/)
+- [Ed Republic](https://www.edrepublic.com/)
+- [CodeWars](https://www.codewars.com/?language=csharp)
+
+- Review the other files in this repo for more details and debugging assistance
+
+
+
 
 
