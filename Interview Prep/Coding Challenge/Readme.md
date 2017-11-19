@@ -32,6 +32,7 @@ End While
 
 ## Best Ways to Prepare
 1. Create an account on [Ed Republic](https://www.edrepublic.com/) Account
+2. [Code Wars](https://www.codewars.com) is also a great resource!
 2. Review their different Coding Questions
 3. The Microsoft Interview will have you code in an online coding environment similar to 
 the Ed Republic environment. 
